@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+	Copyright 2014 Git.Training
+<<<<<<< HEAD
+	Some silly changes from master branch
+=======
+	These changes are from the feature
+	branch bigtrouble
+>>>>>>> bigtrouble
+-->
+
+<head>
+	<title>A silly change</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Silliness Goes Here -->
+		<p>
+<<<<<<< HEAD
+			Just stuff for now,
+			Not sure if we should replace this or not
+=======
+			Just nothin' but troubel.
+>>>>>>> bigtrouble
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Jason Taylor</p>
+	</footer>
+</body>
+</html>
